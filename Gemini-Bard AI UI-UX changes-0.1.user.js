@@ -11,7 +11,7 @@
 (function() {
 let css = `
 
-        .text-input-field[_ngcontent-ng-c976819243] {
+        .text-input-field[_ngcontent-ng-c3265487382] {
             border: 2px solid white;
         }
     `;
@@ -24,4 +24,3 @@ if (typeof GM_addStyle !== "undefined") {
   (document.querySelector("head") || document.documentElement).appendChild(styleNode);
 }
 })();
-
